@@ -14,6 +14,3 @@ function userVerification():void
     }
 }
 
-function logout():void
-{
-}

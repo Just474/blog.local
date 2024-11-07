@@ -1,6 +1,7 @@
 <?php
 require_once 'function.php';
 session_start();
+var_dump($_SESSION);
 ?>
 <!doctype html>
 <html lang="en">
